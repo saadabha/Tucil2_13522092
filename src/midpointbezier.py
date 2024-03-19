@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 
 def createpoint():
-    x = int(input("Enter x: "))
-    y = int(input("Enter y: "))
+    x = float(input("Enter x: "))
+    y = float(input("Enter y: "))
 
     return (x, y)
 
